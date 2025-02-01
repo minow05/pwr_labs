@@ -1,0 +1,3 @@
+### GET request to example server
+GET https://api-dbw.stat.gov.pl/api/1.1.0/variable/variable-section-periods?id-zmienna=303&id-przekroj=740&ile-na-stronie=5000&numer-strony=0&lang=pl
+###
